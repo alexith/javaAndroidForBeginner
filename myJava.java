@@ -10,3 +10,8 @@ String shuffler = myList.random() * myListLength;
 	}
 }
 
+/*Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Cannot invoke random() on the array type char[]
+
+	at myJava.myJava.main(myJava.java:8)
+*/

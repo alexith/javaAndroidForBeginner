@@ -1,4 +1,4 @@
-public class whileLooping {
+public class loopingThroughTriangularNumber {
     public static void main(String[] args) {
 
         int i = 1;
